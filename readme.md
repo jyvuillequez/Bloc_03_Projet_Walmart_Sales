@@ -71,7 +71,12 @@ Pipeline scikit-learn reproductible :
 - Ridge améliore nettement la perfornance test (RMSE en diminution, R² en augmentation) : régularisation utile sur ce dataset.
 - Lasso est proche de Ridge mais légèrement moins performant ici.
 
-## 7. Organisation du projet
+## 7. Installations des librairies Python
+```text
+python -m pip install -r requirements.txt
+```
+
+## 8. Organisation du projet
 
 ```text
 .
